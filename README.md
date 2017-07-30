@@ -4,6 +4,15 @@ Clone of the popular snake game, written in Java. Focus on movement and responsi
 ## Installation
 There is a provided .jar file that can be used to test the game as is. Additionally, clone the repository and open project in your IDE of choice. Compile and run from Game.java
 
+## Controls
+
+| Input | Movement |
+| ------------- | ------------- |
+| W/Up Arrow  | Up |
+| A/Left Arrow  | Left  |
+| S/Down Arrow | Down |
+| D/Right Arrow | Right  |
+
 ## Screenshots
 Here are a couple of screenshots of the game:
 
