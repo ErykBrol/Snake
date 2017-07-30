@@ -10,6 +10,6 @@ Here are a couple of screenshots of the game:
 <img src=img/gameover.png width=50%>
 
 ## Potential Improvements
-* The game is a little lacking graphically, especially the fonts used for score-keeping and the end game screen
+* Fonts used for score-keeping and the end game screen could be better looking
 * Pause menu with option to resume, restart, or quit
 * Play again option on end game screen
