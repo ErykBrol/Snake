@@ -5,7 +5,6 @@ Remake of popular snake game, written in Java. Focus on movement and responsiven
 Here are a couple of screenshots of the game:
 
 <img src=img/inprogress1.png width=50%>
+<img src=img/inprogress2.png width=50%>
 
-<img src=img/inprogress2.png>
-
-<img src=img/gameover.png>
+<img src=img/gameover.png width=50%>
