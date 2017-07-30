@@ -1,4 +1,4 @@
-package waffles.snake.mob;
+package mob;
 
 import java.awt.Color;
 import java.util.ArrayList;
